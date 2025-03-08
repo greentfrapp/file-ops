@@ -1,2 +1,3 @@
 tools:
 - file_ops.create_file
+- file_ops.read_file
